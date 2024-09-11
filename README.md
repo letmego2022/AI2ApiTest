@@ -14,3 +14,5 @@ demo：http://134.175.222.87:5006
 ![image](https://github.com/user-attachments/assets/cfd22216-3b77-4bda-bb26-14f3c9aaed09)
 脚本调整
 ![image](https://github.com/user-attachments/assets/8682ec26-a73c-4e80-bd48-5ba80330f6e1)
+流程节点prompt修改
+![image](https://github.com/user-attachments/assets/28865536-610f-4344-b91e-b2b4e201f4ef)
