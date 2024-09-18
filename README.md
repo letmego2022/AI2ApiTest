@@ -27,7 +27,7 @@ AI 驱动的接口自动测试平台利用人工智能技术自动化测试用�
 - **all in one**:
   ![image](https://github.com/user-attachments/assets/766c84a0-adb4-47da-9347-38f64d2be42e)
 - **手工测试用例**
-  ![image](https://github.com/user-attachments/assets/717c0e64-9401-43aa-8dac-b96d866f6e1d)
+  ![image](https://github.com/user-attachments/assets/0e1afe70-82f0-47bb-988e-0b2da8e1e8d9)
 
 ### 代码设计
 /my_flask_app
