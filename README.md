@@ -8,40 +8,6 @@
   - [x] 针对脚本编辑，避免执行命令
   - [x] 增加图形验证码
 
-### 功能演示
-- **生成接口测试用例**：
-  ![image](https://github.com/user-attachments/assets/ffa84a8b-bdcd-497e-9dd9-29dd1c4ed564)
-- **查看测试用例**：
-  ![image](https://github.com/user-attachments/assets/3a7aaabe-9f87-47fb-8921-3460bb3733e3)
-- **生成pytest脚本**：
-  ![image](https://github.com/user-attachments/assets/cfd22216-3b77-4bda-bb26-14f3c9aaed09)
-- **脚本调整**：
-  ![image](https://github.com/user-attachments/assets/8682ec26-a73c-4e80-bd48-5ba80330f6e1)
-- **流程节点prompt修改**：
-  ![image](https://github.com/user-attachments/assets/28865536-610f-4344-b91e-b2b4e201f4ef)
-- **all in one**:
-  ![image](https://github.com/user-attachments/assets/766c84a0-adb4-47da-9347-38f64d2be42e)
-- **手工测试用例**
-  ![image](https://github.com/user-attachments/assets/d324fbdd-0fe8-4abe-99f0-958582e47a4c)
-
-
-### 代码设计
-/my_flask_app
-- /app
-  - /blueprints
-    - __init__.py
-    - auth.py        # 登录相关模块
-    - xxxx.py        # 其他相关模块
-  - /static            # 静态文件
-  - /templates         # HTML 模板
-    - login.html     # 登录页面模板
-    - xxxxx.html     # 其他页面模板
-  - /utils             # 工具函数
-  - /models            # 数据库模型
-  - __init__.py        # 应用初始化
-- config.py              # 配置文件
-- requirements.txt       # 项目依赖
-- run.py                 # 应用入口
 ### 贡献指南
 ~~我们欢迎任何形式的贡献，请在提交前阅读我们的[贡献指南](CONTRIBUTING.md)。~~
 
