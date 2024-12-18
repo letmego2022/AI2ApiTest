@@ -35,7 +35,8 @@
 ![FireShot Capture 001 - AI Chat - 127 0 0 1](https://github.com/user-attachments/assets/4604eac9-442b-4f3d-84da-69d6284052c4)
 
 ### 演示视频
-[youtube视频](https://youtu.be/eSo_Ur-X9KE)
+观看此视频以了解如何使用本项目，并探索其功能和性能：
+[![演示视频](https://img.youtube.com/vi/eSo_Ur-X9KE/0.jpg)](https://youtu.be/eSo_Ur-X9KE)
 ### 贡献指南
 我们欢迎任何形式的贡献，请在提交前阅读我们的[贡献指南](CONTRIBUTING.md)。
 
