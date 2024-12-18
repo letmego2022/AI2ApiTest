@@ -34,7 +34,8 @@
 ### 新功能：驱动器
 ![FireShot Capture 001 - AI Chat - 127 0 0 1](https://github.com/user-attachments/assets/4604eac9-442b-4f3d-84da-69d6284052c4)
 
-
+### 演示视频
+[youtube视频](https://youtu.be/eSo_Ur-X9KE)
 ### 贡献指南
 我们欢迎任何形式的贡献，请在提交前阅读我们的[贡献指南](CONTRIBUTING.md)。
 
