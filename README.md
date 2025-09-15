@@ -21,6 +21,7 @@
   - 检查用例的 **去重性**（避免冗余与冲突）  
 
 > 通过 **Maker 并联生成 + Checker 严格把关**，系统能够产出更高质量、更全面的测试用例集。
+<img width="410" height="250" alt="image" src="https://github.com/user-attachments/assets/fad9752c-b00c-4c6e-83b6-33fb151a9d40" />
 
 ### **演示地址**
 - [AI2ApiTest 演示地址](http://134.175.222.87:5016/)
